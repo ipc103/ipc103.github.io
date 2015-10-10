@@ -1,19 +1,33 @@
 * {
 	font-family: Futura, sans-serif;
-	font-size: 300 em;
-	background: navy;
-}
-
-header {
-	background: white;
-	text-align: center;
-	padding-top: 500 px;
-
-}
-
-header h1 {
-	background: white;
-	text-align: center;
-	height: 45%;
 	
+}
+
+h1 {
+	font-size: 100px;
+	margin-top: 0px;
+}
+
+h2 {
+	font-size: 40px;
+}
+
+.col-left {
+	width: 33%;
+	display: inline-block;
+	margin-left: 10px;
+}
+
+.col-right {
+	float: right;
+	width: 44%;
+	padding-top: 50px;
+}
+
+ul {
+	list-style: none;
+}
+
+li {
+	font-size: 33px;
 }
